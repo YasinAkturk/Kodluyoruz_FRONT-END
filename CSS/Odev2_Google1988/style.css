@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    text-align: center;
+}
+
+.ortala{
+    text-align: center;
+    margin: auto;
+}
+
+.hizala{
+    padding: 2px;
+}
