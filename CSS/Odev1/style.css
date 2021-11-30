@@ -40,31 +40,80 @@ nav ul li a:hover {
     border-bottom: 1px solid black;
 }
 
-section #kutu {
+section #indexkutu {
     padding: 20px;
 }
 
-section #kutu p {
+section #indexkutu p {
     margin-bottom: 10px;
 }
 
-section #kutu h2 {
+section #indexkutu h2 {
     color: brown;
     margin-bottom: 10px;
 }
 
-section #kutu ul {
+section #indexkutu ul {
     list-style-type: disclosure-closed;
     margin-left: 50%;
     margin-right: 50%;
     display: block;
 }
 
-section #kutu ul li a {
+section #indexkutu ul li a {
     text-decoration: none;
     color: black;
 }
 
-section #kutu ul li a:hover {
+section #indexkutu ul li a:hover {
     color: brown;
+}
+
+section #hakkimizdakutu {
+    padding: 20px 20px 60px 20px;
+}
+
+section #hakkimizdakutu h2 {
+    color: brown;
+    margin-bottom: 5px;
+}
+
+section #hakkimizdakutu p {
+    margin-bottom: 20px;
+}
+
+section #urunlerkutu {
+    padding: 20px;
+    display: block;
+}
+
+section #urunlerkutu .urunler {
+    width: 250px;
+    height: 350px;
+    display: inline-block;
+    margin: 25px 50px;
+}
+
+section #urunlerkutu .urunler img {
+    width: 250px;
+    height: 250px;
+    display: block;
+}
+
+section #urunlerkutu .urunler h4 {
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+}
+
+section #urunlerkutu .urunler p {
+    float: right;
+    color: #4d4d4d;
+    display: block;
+}
+
+section #urunlerkutu .urunler p:hover {
+    color: #24d60d;
+    display: block;
 }
