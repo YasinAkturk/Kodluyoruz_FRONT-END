@@ -1,4 +1,4 @@
-# Kodluyoruz-Front-End-CSS"
+# Kodluyoruz-Front-End"
 
 Kodluyoruz Front-End eğitiminde yaptığım ödevleri koyduğum ana dosya
 
